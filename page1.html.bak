@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+		<meta charset="UTF 8">
+		<title>Welcome</title>
+		<link rel="stylesheet" href="game496.css">
+	</head>
+	
+	
+	<body>
+	<div id="container">
+	<div id="header"<h1><strong>Part I: Morrocco</strong></h1></div>
+	<div id="main">
+		<div id="sidebar">
+		<h3>Inventory</h3>
+		-------------------
+		<h3>Mental fortitude = 99%</h3>
+		<h3>Food = Max</h3>
+		<h3>Ammo = Max</h3>
+		<br><br><br><br><br>
+		<h4>To restart click </h4>	
+		<div id="link1"><a href="welcome.html"><h2>RESET</h2></a></div>
+		
+		
+		
+	 
+		</div>
+		
+		<div id="article">
+		
+		<img src="BGlow.jpg" width="800px" height="400px" class="center">
+		
+		<div id ="page1-text">
+		<h4>Choosing to lay low was wise!</h4>
+		<br>
+		<h4>You and the rest of the 47 Infantry regiment made your way east into Tunisia where you joined forces with allied british troops. The mission at hand is to confront and take down German general Erwin Rommel.</h4>
+		<h2></h2>
+		
+		<br>
+		
+		<div id="link1"><a href="page2.html"><h2>Continue</h2></a></div>
+
+	
+	
+
+		
+		</div>
+	</div>
+	</div>
+	<div id="footer"><p>©2023 Hearts and Heros</p></div>
+	</div>
+	
+	
+	</body>
+
+
+</html>
